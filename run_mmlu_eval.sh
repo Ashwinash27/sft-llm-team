@@ -58,5 +58,5 @@ lighteval vllm $MODEL_ARGS "lighteval|mmlu_redux_2|0|0" \
 
 
 
-echo "✅ MMLU evaluation complete. Results in: $OUTPUT_DIR"
+echo " MMLU evaluation complete. Results in: $OUTPUT_DIR"
 
