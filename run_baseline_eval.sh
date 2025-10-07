@@ -56,5 +56,5 @@ lighteval vllm $MODEL_ARGS \
 
 
 
-echo "✅ Baseline evaluation complete. Results in: $OUTPUT_DIR"
+echo " Baseline evaluation complete. Results in: $OUTPUT_DIR"
 
