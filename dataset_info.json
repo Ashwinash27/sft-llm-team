@@ -1,0 +1,16 @@
+{
+  "acereason_random15k": {
+    "file_name": "random15k.json",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  },
+  "acereason_diverse15k": {
+    "file_name": "diverse15k.json",
+    "columns": {
+      "prompt": "input",
+      "response": "output"
+    }
+  }
+}
