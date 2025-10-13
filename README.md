@@ -50,7 +50,7 @@ A curated 15 K subset emphasizing **diversity** in task type and complexity.
   "columns": { "prompt": "input", "response": "output" }
 }
 
-- Random15k
+### **Random15k**
 
 A randomly sampled 15 K subset from AceReason, used as a baseline for comparison.
 
