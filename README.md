@@ -43,12 +43,12 @@ A curated 15 K subset emphasizing **diversity** in task type and complexity.
 - Covers math, logic, commonsense, and analytical reasoning.  
 - Format:
   ```json
-  { "input": "Problem statement or instruction", "output": "Model reasoning and answer" }
-  	•	dataset_info.json entry:
-  "diverse15k": {
+{ "input": "Problem statement or instruction", "output": "Model reasoning and answer" }
+"diverse15k": {
   "file_name": "diverse15k.json",
   "columns": { "prompt": "input", "response": "output" }
 }
+
 
 ### **Random15k**
 
