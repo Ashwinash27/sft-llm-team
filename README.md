@@ -42,6 +42,7 @@ A curated 15 K subset emphasizing **diversity** in task type and complexity.
 
 - Covers math, logic, commonsense, and analytical reasoning.  
 - Format:
+  
   json
   { "input": "Problem statement or instruction", "output": "Model reasoning and answer" }
   	•	dataset_info.json entry:
