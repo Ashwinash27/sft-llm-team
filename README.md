@@ -57,10 +57,7 @@ A randomly sampled 15 K subset from AceReason, used as a baseline for comparison
 
 ### **Team Members**
 
-Avanthika Rajesh - Data Preparation & Hugging Face Dataset Publishing
-
-Ashwin A. - Repository Setup, Configuration & Training Pipeline
-
-Gayathri - Report Writing, Results Analysis & Documentation
-
-Ashley Ferraro - Model Fine-tuning & Evaluation Pipeline
+- Avanthika Rajesh - Data Preparation & Hugging Face Dataset Publishing
+- Ashwin A. - Repository Setup, Configuration & Training Pipeline
+- Gayathri - Report Writing, Results Analysis & Documentation
+- Ashley Ferraro - Model Fine-tuning & Evaluation Pipeline
