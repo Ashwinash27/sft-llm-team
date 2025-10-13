@@ -10,7 +10,7 @@ We use **Qwen2.5-3B-Instruct** and fine-tune it on curated subsets of the **AceR
 | Artifact | Hugging Face Link | Description |
 |-----------|------------------|--------------|
 |  **Diverse15k Dataset** | [HF Dataset: acereason-diverse15k](https://huggingface.co/datasets/avanthikarajesh30/acereason-diverse15k) | Diverse 15 K subset covering math, logic, and analytical prompts. |
-|  **Random15k Dataset** | [HF Dataset: acereason-random15k](https://huggingface.co/datasets/avanthikarajesh30/acereason-random15k) | Random 15 K subset used as baseline for comparison. |
+|  **Random15k Dataset** | [HF Dataset: acereason-random15k](https://huggingface.co/datasets/avanthika30/random15k/tree/main) | Random 15 K subset used as baseline for comparison. |
 | **Fine-tuned Model (Diverse)** | [HF Model: qwen2.5-3b-diverse15k-sft](https://huggingface.co/avanthikarajesh30/qwen2.5-3b-diverse15k-sft) | Model trained on the diverse subset. |
 | **Fine-tuned Model (Random)** | [HF Model: qwen2.5-3b-random15k-sft](https://huggingface.co/avanthikarajesh30/qwen2.5-3b-random15k-sft) | Model trained on the random subset. |
 
